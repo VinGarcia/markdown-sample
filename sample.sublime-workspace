@@ -1,0 +1,752 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"__",
+				"__end__"
+			],
+			[
+				"gram-",
+				"gram-positivos"
+			],
+			[
+				"table",
+				"table_diff"
+			],
+			[
+				"file",
+				"file_diff"
+			],
+			[
+				"id",
+				"NumIdentificacao"
+			],
+			[
+				"pertus",
+				"pertussis"
+			],
+			[
+				"gui",
+				"guillain-barré"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"compli",
+				"complicNeuro"
+			],
+			[
+				"endo",
+				"endocardite"
+			],
+			[
+				"complic",
+				"complicSup"
+			],
+			[
+				"numPro",
+				"numProntuario"
+			],
+			[
+				"on",
+				"on_screen"
+			],
+			[
+				"se",
+				"seqNeuro_ignorado"
+			],
+			[
+				"Complica",
+				"ComplicacoesNeurologicas"
+			],
+			[
+				"Herpes",
+				"MarcadoresHerpesVirus5"
+			],
+			[
+				"EspecificarCultura",
+				"MarcadoresEspecificarCultura"
+			],
+			[
+				"MarcadoreEspecificar",
+				"MarcadoresEspecificarCultura"
+			],
+			[
+				"Liqo",
+				"LiquorMNs"
+			],
+			[
+				"Sinais",
+				"SinaisClinicosEspecificar"
+			],
+			[
+				"Sinaisc",
+				"SinaisClinicos_outros"
+			],
+			[
+				"sinais",
+				"SinaisClinicos_cefaleia"
+			],
+			[
+				"sinaiscli",
+				"SinaisClinicos_fontanela"
+			],
+			[
+				"sinaisc",
+				"SinaisClinicos_convul"
+			],
+			[
+				"SinaisClinicos",
+				"SinaisClinicos_altConsc"
+			],
+			[
+				"endocar",
+				"EndocarditeOutros"
+			],
+			[
+				"Endo",
+				"EndocarditeEspecificar"
+			],
+			[
+				"ViasA",
+				"ViasAereasOutros"
+			],
+			[
+				"Profil",
+				"ProfilaxiaHIV_ignorado"
+			],
+			[
+				"json",
+				"json_tables"
+			],
+			[
+				"ViasAerea",
+				"ViasAereasEspecificar"
+			],
+			[
+				"observa",
+				"observation"
+			],
+			[
+				"fir",
+				"first_child_atv"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"instance",
+				"instanceIndex"
+			],
+			[
+				"ins",
+				"instanceIndex"
+			],
+			[
+				"comp",
+				"complicNeuro"
+			],
+			[
+				"exame",
+				"exameComp"
+			],
+			[
+				"first",
+				"firstActivity"
+			],
+			[
+				"instan",
+				"instanceIndex"
+			],
+			[
+				"chil",
+				"childID"
+			],
+			[
+				"getChil",
+				"getChildID"
+			],
+			[
+				"obser",
+				"observation"
+			],
+			[
+				"get",
+				"getKey"
+			],
+			[
+				"undef",
+				"undef_father"
+			],
+			[
+				"parameters",
+				"parametersToRCode"
+			],
+			[
+				"rScript",
+				"rScriptWorkingDirectory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sample-paper.md",
+			"settings":
+			{
+				"buffer_size": 2141,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 104,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sample-library.bib",
+			"settings":
+			{
+				"buffer_size": 1040,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/make_run.sublime-build",
+	"command_palette":
+	{
+		"height": 352.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"acamarkdown",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				":java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax: java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax: javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax: js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax: js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				":ww",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				":t",
+				"View: Toggle Minimap"
+			],
+			[
+				":e",
+				":$ - EOF"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 256.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/mnt/d/Fox/proposta/sample-library.bib",
+		"/mnt/d/Fox/proposta/Makefile",
+		"/mnt/d/Fox/proposta/sample-paper.md",
+		"/mnt/d/Fox/proposta/proposta.md",
+		"/home/fox.config/fox/serios/ufmg/paa/tps/tp-final/proposta/sample/chicago.csl",
+		"/home/fox.config/.config/sublime-text-2/Packages/User/Markdown (Standard).sublime-settings",
+		"/home/fox.config/fox/serios/ufmg/paa/tps/tp-final/proposta/sample/Makefile",
+		"/home/fox.config/.config/sublime-text-2/Packages/User/AcademicMarkdown.sublime-settings",
+		"/home/fox.config/.config/sublime-text-2/Packages/User/Citer.sublime-settings",
+		"/mnt/d/Fox/serios/talkin/talkin-git/codigo/banco.cpp",
+		"/mnt/d/Fox/serios/talkin/talkin-git/codigo/banco.hpp",
+		"/mnt/d/Fox/serios/talkin/talkin-git/codigo/testes/charClass.cpp",
+		"/mnt/d/Fox/serios/talkin/talkin-git/codigo/testes/strClass.cpp",
+		"/mnt/d/Fox/.config/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libs/tools/tools.c",
+		"/mnt/d/Fox/serios/luar/meningite/scripts/mining/cleanTable/codigo/dicts/Makefile",
+		"/mnt/d/Fox/serios/luar/meningite/scripts/mining/cleanTable/codigo/dictRegEx.json",
+		"/mnt/d/Fox/serios/luar/meningite/scripts/mining/cleanTable/codigo/cellEdit.json",
+		"/mnt/d/Fox/serios/luar/meningite/scripts/mining/cleanTable/codigo/byLine.json",
+		"/mnt/d/Fox/serios/luar/meningite/scripts/mining/cleanTable/codigo/dict.json",
+		"/mnt/d/Fox/serios/luar/meningite/scripts/mining/cleanTable/codigo/cleanCsv.sh",
+		"/mnt/d/Fox/serios/luar/meningite/mining/cleanTable/cleanTable/dictRegEx.json",
+		"/mnt/d/Fox/serios/luar/meningite/mining/cleanTable/cleanTable/clean_table.csv",
+		"/mnt/d/Fox/serios/luar/meningite/mining/cleanTable/cleanTable/table.csv",
+		"/mnt/d/Fox/serios/luar/meningite/mining/cleanTable/cleanTable/dict.json",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/convertToCSV/makeDict.sh",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/convertToCSV/cleanCsv.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/convertToCSV/makeDict.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/convertToCSV/makeTable.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/convertToCSV/mapNames.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/convertToCSV/Makefile",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/makeTable.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/instance_state.json",
+		"/mnt/d/Fox/.config/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/webbot.js.bkp.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/buildTables.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/my_knex.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/knex.js",
+		"/mnt/d/Fox/serios/luar/meningite/bot_tranferencia/webbot.py",
+		"/home/fox/serios/luar/relatorios/relatorio_2014-1/LaTeX do Relatorio/relatorio_ojb.sublime-project",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/exemplos_com_videos_em_python/vplayer.py",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/.talkin.sublime-project",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/citotoxidade-INMETRO/artigo-CTTX/r-no-flux-2014-04-14-vingarcia.tex",
+		"/mnt/d/Fox/temp/temp.R",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/citotoxidade-INMETRO/artigo-CTTX/r-no-flux-2014-04-14-vingarcia.txt",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/apresentacoes/fabrica_de_slides/template_luar.tex",
+		"/mnt/d/Fox/serios/luar/svn/flux20/src/trunk/Flux2/src/br/ufmg/dcc/luar/flux/service/rserve/RCall2.java",
+		"/mnt/d/Fox/serios/luar/svn/flux20/src/trunk/Flux2/src/br/ufmg/dcc/luar/flux/service/rserve/RStat2.java",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/citotoxidade-INMETRO/citotoxidade/scriptR/graficoR.R",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/Trabalho OJB/Relatorios OJB/Relatorio atividades 2013-2 para o OJB/LaTeX do Relatorio/relatorio.tex",
+		"/mnt/d/Fox/temp/fabrica_de_slides/template_luar.tex",
+		"/mnt/d/Fox/temp/graficoR.R",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/flux/fluxdev/fluxdev/doc/r_no_flux/documentacao_r.tex",
+		"/home/fox/serios/ufmg/Psicanálise/Trabalho 1 - Filme Desonra/resenha-desonra.tex",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/mnt/d/Fox/serios/ufmg/Psicanálise/Trabalho 1 - Filme Desonra/resenha-desonra.tex",
+		"/home/fox/serios/ufmg/Psicanálise/Trabalho 1 - Filme Desonra/abnt-classe-doc.tex",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/flux/fluxdev/fluxdev/doc/r_no_flux/Makefile",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/User/make_run.sublime-build",
+		"/home/garcia/workspace/citotoxidade-INMETRO/citotoxidade/scriptR/graficoR.R",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/apresentacoes/fabrica_de_slides/Makefile",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/apresentacoes/fabrica_de_slides/sftp",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/vocabulario.talk",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/padrao.cpp",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/Makefile",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/main.cpp",
+		"/mnt/d/Fox/teste.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"nI",
+			"”",
+			"drivers",
+			"driver",
+			"cBanco",
+			"objectClass",
+			"the its",
+			"charClass",
+			"charClass.",
+			"charClass`",
+			"   ",
+			"Amb",
+			"ambiguous",
+			"ambiguidade",
+			"xxx",
+			"index",
+			"map",
+			"index",
+			"MAIN",
+			"format",
+			"10",
+			"readVocab",
+			"/readVocab",
+			"/readVoca",
+			"charClass",
+			"@nome",
+			"For",
+			"Considerado",
+			"Testado",
+			"lSignificado",
+			"lRotulos",
+			"str(",
+			"class cInst",
+			"Inst",
+			"pMatch::arrayClass::str",
+			"arrayClass",
+			"readVocab",
+			"estenso",
+			"diplocos",
+			"diplicocos",
+			"dipiococo",
+			"vancamicina",
+			"celutite",
+			"largamento",
+			"Largamento",
+			"presença de diplocos gram-positivos",
+			"presença de diplocos gran-positivos",
+			"presença de diplocos gram-negativos",
+			"meningite por neisseria meningitidis b",
+			"meningite bacteriana (meningococo)",
+			"meningococo tipo",
+			"meningogoco tipo c",
+			"meningogoco tipo C",
+			"meningite por meningococo",
+			"meningite bacteriana por pneumococo",
+			"meningite não especificada",
+			"pneumococo",
+			"streptococcus pneumonia",
+			"streptococus pneumoniae",
+			"this.type",
+			"make",
+			"header",
+			"fs.",
+			"write",
+			"writeFile",
+			"appendFile",
+			"console.log",
+			"print",
+			"count2",
+			"count1",
+			"table_diff",
+			"changes",
+			"args[2]",
+			"args",
+			"argv",
+			"args",
+			"lineNum",
+			"file_diff",
+			"table",
+			"print",
+			"translator",
+			"self.",
+			"__by__",
+			"translator",
+			"dicts",
+			"dict.translate",
+			"append",
+			"argv",
+			"dictList",
+			"item",
+			"__col",
+			"print",
+			"lineNum",
+			"byLine",
+			"dicts.byLine",
+			"editLineList",
+			"regExDictList",
+			"dictList",
+			"header",
+			"firstData",
+			"header",
+			"firstData",
+			"header",
+			"firstData",
+			"table.csv",
+			"csvAddr",
+			"firstData",
+			"editLine",
+			"cellEditList",
+			"editLine",
+			"cellEditAddr",
+			"339",
+			"iva",
+			"snc",
+			"EspecificarDP",
+			"tools",
+			"99197",
+			"710",
+			"clean",
+			"+ ",
+			"dict.json",
+			"console.log",
+			"dict.json",
+			"Names",
+			"File",
+			"write",
+			"object",
+			"remap"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"extenso",
+			"ID",
+			"dicts.byLine",
+			"dicts.regex",
+			"dicts.byCol",
+			"header",
+			"editLineList",
+			"editLine",
+			"		\"",
+			"\"",
+			"this.Log",
+			"atv_nome",
+			"child",
+			"' -> '",
+			"atv['observation']",
+			"this.snapshot();",
+			"fixInteger",
+			"if(ERROR || inst.onFlux) return;",
+			"  });",
+			"  }, function(err){ ERROR=true; console.log(\"A etapa falhou! \" + err);});",
+			"}, func",
+			", function(err){ ERROR=true; console.log(\"A etapa falhou! \" + err);})",
+			"atv",
+			"dropDuplicates",
+			"instanceIndex",
+			"// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *",
+			"this.waitForClick",
+			"getCurrentUrl",
+			"gerCurrentUrl",
+			"",
+			"this.waitForClick",
+			"waitForClick",
+			"getVar"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sample-paper.md",
+					"settings":
+					{
+						"buffer_size": 2141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AcademicMarkdown/AcademicMarkdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Makefile",
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sample-library.bib",
+					"settings":
+					{
+						"buffer_size": 1040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/Bibtex.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 403.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true
+}
